@@ -1,0 +1,28 @@
+li.bold {
+    font-style: italic;
+}
+
+p, li {
+    font-size: 15px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+p{
+    font-style: bold; 
+    font-weight: normal;
+}
+
+img{
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+.title{
+    font-size: larger;
+}
+
+.text{
+    color: blue;
+}
